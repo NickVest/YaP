@@ -1,0 +1,11 @@
+C:\Users\student\source\repos\Практика 4\1.1\Практика 4 Задание 1.1\Практика 4 Задание 1.1\bin\Debug\netcoreapp3.1\Практика 4 Задание 1.1.exe
+C:\Users\student\source\repos\Практика 4\1.1\Практика 4 Задание 1.1\Практика 4 Задание 1.1\bin\Debug\netcoreapp3.1\Практика 4 Задание 1.1.deps.json
+C:\Users\student\source\repos\Практика 4\1.1\Практика 4 Задание 1.1\Практика 4 Задание 1.1\bin\Debug\netcoreapp3.1\Практика 4 Задание 1.1.runtimeconfig.json
+C:\Users\student\source\repos\Практика 4\1.1\Практика 4 Задание 1.1\Практика 4 Задание 1.1\bin\Debug\netcoreapp3.1\Практика 4 Задание 1.1.runtimeconfig.dev.json
+C:\Users\student\source\repos\Практика 4\1.1\Практика 4 Задание 1.1\Практика 4 Задание 1.1\bin\Debug\netcoreapp3.1\Практика 4 Задание 1.1.dll
+C:\Users\student\source\repos\Практика 4\1.1\Практика 4 Задание 1.1\Практика 4 Задание 1.1\bin\Debug\netcoreapp3.1\Практика 4 Задание 1.1.pdb
+C:\Users\student\source\repos\Практика 4\1.1\Практика 4 Задание 1.1\Практика 4 Задание 1.1\obj\Debug\netcoreapp3.1\Практика 4 Задание 1.1.csprojAssemblyReference.cache
+C:\Users\student\source\repos\Практика 4\1.1\Практика 4 Задание 1.1\Практика 4 Задание 1.1\obj\Debug\netcoreapp3.1\Практика 4 Задание 1.1.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\Практика 4\1.1\Практика 4 Задание 1.1\Практика 4 Задание 1.1\obj\Debug\netcoreapp3.1\Практика 4 Задание 1.1.AssemblyInfo.cs
+C:\Users\student\source\repos\Практика 4\1.1\Практика 4 Задание 1.1\Практика 4 Задание 1.1\obj\Debug\netcoreapp3.1\Практика 4 Задание 1.1.dll
+C:\Users\student\source\repos\Практика 4\1.1\Практика 4 Задание 1.1\Практика 4 Задание 1.1\obj\Debug\netcoreapp3.1\Практика 4 Задание 1.1.pdb
