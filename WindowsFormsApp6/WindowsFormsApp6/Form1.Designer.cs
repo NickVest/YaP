@@ -31,9 +31,9 @@
       this.textBox1 = new System.Windows.Forms.TextBox();
       this.textBox2 = new System.Windows.Forms.TextBox();
       this.groupBox1 = new System.Windows.Forms.GroupBox();
-      this.label1 = new System.Windows.Forms.Label();
       this.radioButton1 = new System.Windows.Forms.RadioButton();
       this.radioButton2 = new System.Windows.Forms.RadioButton();
+      this.label1 = new System.Windows.Forms.Label();
       this.button1 = new System.Windows.Forms.Button();
       this.groupBox1.SuspendLayout();
       this.SuspendLayout();
@@ -65,15 +65,6 @@
       this.groupBox1.Text = "Выбор";
       this.groupBox1.Enter += new System.EventHandler(this.groupBox1_Enter);
       // 
-      // label1
-      // 
-      this.label1.AutoSize = true;
-      this.label1.Location = new System.Drawing.Point(113, 90);
-      this.label1.Name = "label1";
-      this.label1.Size = new System.Drawing.Size(64, 13);
-      this.label1.TabIndex = 3;
-      this.label1.Text = "Ввод числа";
-      // 
       // radioButton1
       // 
       this.radioButton1.AutoSize = true;
@@ -95,6 +86,15 @@
       this.radioButton2.TabStop = true;
       this.radioButton2.Text = "Произведение ряда";
       this.radioButton2.UseVisualStyleBackColor = true;
+      // 
+      // label1
+      // 
+      this.label1.AutoSize = true;
+      this.label1.Location = new System.Drawing.Point(113, 90);
+      this.label1.Name = "label1";
+      this.label1.Size = new System.Drawing.Size(64, 13);
+      this.label1.TabIndex = 3;
+      this.label1.Text = "Ввод числа";
       // 
       // button1
       // 
@@ -118,6 +118,7 @@
       this.Controls.Add(this.textBox1);
       this.Name = "Form1";
       this.Text = "Form1";
+      this.Load += new System.EventHandler(this.Form1_Load);
       this.groupBox1.ResumeLayout(false);
       this.groupBox1.PerformLayout();
       this.ResumeLayout(false);
